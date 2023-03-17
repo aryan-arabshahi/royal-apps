@@ -1,0 +1,14 @@
+version: '3.1'
+
+services:
+
+    royal-apps-laravel:
+        container_name: royal-apps-laravel
+        build:
+            context: .
+            dockerfile: Dockerfile
+        # entrypoint: /app/alive.sh
+        ports:
+            - 8000:8000
+        volumes:
+            - ./:/app

@@ -1,0 +1,18 @@
+body {
+    background: #edf2f7;
+}
+.login-box {
+    width: 500px;
+}
+.bg-blue-default {
+    background: #3c9ae2;
+}
+.action-bar {
+    top: 17px;
+}
+.menu-item {
+    background: none !important;
+}
+.menu-item:hover {
+    background: rgba(255,255,255,0.1) !important;
+}
