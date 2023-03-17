@@ -1,4 +1,4 @@
-<div class="w-full max-w-md my-7">
+<div class="w-full my-7">
     <div class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4 border border-gray-200">
         <div class="box-header mb-6">
             <div class="w-28 h-28 rounded-full bg-blue-default m-auto flex items-center justify-center text-white shadow">
