@@ -1,6 +1,7 @@
 # Royal Apps Take Home Assignement
 
-The Royal Apps take home assignement
+The Royal Apps take home assignement.
+
 **Demo:** **[https://royal-apps.codewithcoffee.dev](https://royal-apps.codewithcoffee.dev)**
 
 ---
